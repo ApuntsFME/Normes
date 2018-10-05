@@ -150,8 +150,8 @@ añadirá de forma automática.
 Aquí detallamos una lista de los commandos que hemos añadido
 al [preámbulo](https://github.com/ApuntsFME/LatexFME/blob/master/preamble_es.tex)
 con el objeto de simplificar la esritura. Es importante saber
-que **esta lista no está cerrada**, sientete libre de añadir
-los commandos que creas convenientes, simpre que sean útiles
+que **esta lista no está cerrada**, siéntete libre de añadir
+los comandos que creas convenientes, simpre que sean útiles
 (y no casos particulares) y que los demás miembros estén de
 acuerdo. Además **recuerda añadir a esta sección el comando**.
 
@@ -208,6 +208,8 @@ principales conjuntos.
 | \rie | 0 | Coloca Rie |
 | \upint | 0 | Coloca una integral superior |
 | \lowint | 0 | Coloca una integral inferior |
+| \trir | 0 | Coloca triangle right |
+| \tril | 0 | Coloca triangle left |
 
 ## Títulos demasiado largos
 
