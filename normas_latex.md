@@ -10,14 +10,14 @@ unas directrices a seguir fuera de este contexto ni
 se debe asumir que sean "buenas prácticas".
 
 ## Índice
-* **[Normas de estilo](https://github.com/ApuntsFME/LatexFME/blob/master/normas_latex.md#normas-de-estilo)**
-* **[Proposiciones, teoremas y demás](https://github.com/ApuntsFME/LatexFME/blob/master/normas_latex.md#proposiciones-teoremas-y-dem%C3%A1s)**
-* **[Comandos útiles](https://github.com/ApuntsFME/LatexFME/blob/master/normas_latex.md#comandos-%C3%BAtiles)**
-* **[Títulos demasiado largos](https://github.com/ApuntsFME/LatexFME/blob/master/normas_latex.md#t%C3%ADtulos-demasiado-largos)**
-* **[\input](https://github.com/ApuntsFME/LatexFME/blob/master/normas_latex.md#input)**
-* **[Referencias](https://github.com/ApuntsFME/LatexFME/blob/master/normas_latex.md#referencias)**
-* **[Fragmentos comunes](https://github.com/ApuntsFME/LatexFME/blob/master/normas_latex.md#fragmentos-comunes)**
-* **[Paquete tikz](https://github.com/ApuntsFME/LatexFME/blob/master/normas_latex.md#paquete-tikz)**
+* **[Normas de estilo](https://github.com/ApuntsFME/Normes/blob/master/normas_latex.md#normas-de-estilo)**
+* **[Proposiciones, teoremas y demás](https://github.com/ApuntsFME/Normes/blob/master/normas_latex.md#proposiciones-teoremas-y-dem%C3%A1s)**
+* **[Comandos útiles](https://github.com/ApuntsFME/Normes/blob/master/normas_latex.md#comandos-%C3%BAtiles)**
+* **[Títulos demasiado largos](https://github.com/Normes/LatexFME/blob/master/normas_latex.md#t%C3%ADtulos-demasiado-largos)**
+* **[\input](https://github.com/ApuntsFME/Normes/blob/master/normas_latex.md#input)**
+* **[Referencias](https://github.com/ApuntsFME/Normes/blob/master/normas_latex.md#referencias)**
+* **[Fragmentos comunes](https://github.com/ApuntsFME/Normes/blob/master/normas_latex.md#fragmentos-comunes)**
+* **[Paquete tikz](https://github.com/ApuntsFME/Normes/blob/master/normas_latex.md#paquete-tikz)**
 
 ## Normas de estilo
 
