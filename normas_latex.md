@@ -210,6 +210,10 @@ principales conjuntos.
 | \lowint | 0 | Coloca una integral inferior |
 | \trir | 0 | Coloca triangle right |
 | \tril | 0 | Coloca triangle left |
+| \esp | 0 | Operador de esperanza |
+| \var | 0 | Operador de variancia |
+| \cov | 0 | Operador de covariancia |
+
 
 ## Títulos demasiado largos
 
