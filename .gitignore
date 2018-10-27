@@ -10,3 +10,4 @@
 *.pdf
 *~
 .Rhistory
+commit.sh
