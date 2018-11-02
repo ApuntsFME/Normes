@@ -4,20 +4,20 @@ Se asume una noción básica de (como mínimo) la sintaxis de
 LaTeX.
 
 ## Atención
-Estas normas están sujetas al uso del [preámbulo](https://github.com/ApuntsFME/LatexFME/blob/master/preamble_es.tex) que
+Estas normas están sujetas al uso del [preámbulo](https://gitlab.com/ApuntsFME/LatexFME/blob/master/preamble.tex) que
 hemos creado y bajo ningún concepto se deben tomar como
 unas directrices a seguir fuera de este contexto ni
 se debe asumir que sean "buenas prácticas".
 
 ## Índice
-* **[Normas de estilo](https://github.com/ApuntsFME/Normes/blob/master/normas_latex.md#normas-de-estilo)**
-* **[Proposiciones, teoremas y demás](https://github.com/ApuntsFME/Normes/blob/master/normas_latex.md#proposiciones-teoremas-y-dem%C3%A1s)**
-* **[Comandos útiles](https://github.com/ApuntsFME/Normes/blob/master/normas_latex.md#comandos-%C3%BAtiles)**
-* **[Títulos demasiado largos](https://github.com/ApuntsFME/Normes/blob/master/normas_latex.md#t%C3%ADtulos-demasiado-largos)**
-* **[\input](https://github.com/ApuntsFME/Normes/blob/master/normas_latex.md#input)**
-* **[Referencias](https://github.com/ApuntsFME/Normes/blob/master/normas_latex.md#referencias)**
-* **[Fragmentos comunes](https://github.com/ApuntsFME/Normes/blob/master/normas_latex.md#fragmentos-comunes)**
-* **[Paquete tikz](https://github.com/ApuntsFME/Normes/blob/master/normas_latex.md#paquete-tikz)**
+* **[Normas de estilo](https://gitlab.com/ApuntsFME/Normes/blob/master/normas_latex.md#normas-de-estilo)**
+* **[Proposiciones, teoremas y demás](https://gitlab.com/ApuntsFME/Normes/blob/master/normas_latex.md#proposiciones-teoremas-y-dem%C3%A1s)**
+* **[Comandos útiles](https://gitlab.com/ApuntsFME/Normes/blob/master/normas_latex.md#comandos-%C3%BAtiles)**
+* **[Títulos demasiado largos](https://gitlab.com/ApuntsFME/Normes/blob/master/normas_latex.md#t%C3%ADtulos-demasiado-largos)**
+* **[\input](https://gitlab.com/ApuntsFME/Normes/blob/master/normas_latex.md#input)**
+* **[Referencias](https://gitlab.com/ApuntsFME/Normes/blob/master/normas_latex.md#referencias)**
+* **[Fragmentos comunes](https://gitlab.com/ApuntsFME/Normes/blob/master/normas_latex.md#fragmentos-comunes)**
+* **[Paquete tikz](https://gitlab.com/ApuntsFME/Normes/blob/master/normas_latex.md#paquete-tikz)**
 
 ## Normas de estilo
 
@@ -58,7 +58,7 @@ seguida de dos puntos, por ejemplo: `\label{teo:tales}`,
 
 ## Proposiciones, teoremas y demás
 
-En nuestro [preámbulo](https://github.com/ApuntsFME/LatexFME/blob/master/preamble_es.tex),
+En nuestros [environments](https://gitlab.com/ApuntsFME/LatexFME/blob/master/environments_es.tex),
 hemos creado unos entornos para recoger los casos de entradas más comunes, aquí se hace un
 listado de todas ellas. Estos comandos deberán ser usados siempre que sea posible.
 
@@ -148,7 +148,7 @@ añadirá de forma automática.
 
 ## Comandos útiles
 Aquí detallamos una lista de los commandos que hemos añadido
-al [preámbulo](https://github.com/ApuntsFME/LatexFME/blob/master/preamble_es.tex)
+al [preámbulo](https://gitlab.com/ApuntsFME/LatexFME/blob/master/preamble.tex)
 con el objeto de simplificar la esritura. Es importante saber
 que **esta lista no está cerrada**, siéntete libre de añadir
 los comandos que creas convenientes, simpre que sean útiles
@@ -444,7 +444,7 @@ generación de gráficos. Aquí solo damos unas leves
 pinceladas de cómo usar este paquete, para hacer un grafo
 muy simple.
 
-![grafo](https://github.com/ApuntsFME/LatexFME/blob/master/grafo.png)
+![grafo](https://gitlab.com/ApuntsFME/Normas/blob/master/grafo.png)
 
 Para hacer este grafo, usamos el entorno *tikzpicture*
 ```tex

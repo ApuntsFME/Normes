@@ -2,11 +2,11 @@
 Git és un sistema de control de versions, és a dir, un programa que serveix
 per mantenir un projecte (normalment de programació) registrant totes les versions
 que s'han fet i gestionant les aportacions de tots. Si voleu més informació llegiu
-la wikipedia.
+la Wikipedia.
 
 
-# Com utilitzar github:
-Github permet tant mantenir un repositori amb allò que volem com editar-lo i navegar-hi
+# Com utilitzar gitLab:
+GitLab permet tant mantenir un repositori (anomenat projecte) amb allò que volem com editar-lo i navegar-hi
 directament. Per navegar, simplement s'ha de clicar a les carpetes que apareixen al panell
 principal de la interfície. Les frases que diu al costat de noms de fitxers i carpetes no 
 us han d'importar si no us encarregueu d'editar el repositori, descriuen l'últim canvi que 
@@ -25,7 +25,7 @@ corresponents ha de fer el següent:
 
 La primera vegada que es fa, un ha de navegar fins on voldrà treballar amb una consola i escriure:
 ```
-git clone https://github.com/MiquelOrtega/Mates NOM_CARPETA_ON_VOLS_GUARDAR
+git clone https://gitlab.com/apuntsfme/LatexFME NOM_CARPETA_ON_VOLS_GUARDAR
 ```
 
 Això crearà exactament el mateix repositori a la carpeta que un hagi escrit. És a dir, es tindrà
@@ -46,7 +46,7 @@ Finalment, per aplicar tots els commits fets al repositori online, s'ha d'escriu
 ```
 git push origin master
 ```
-i escriure el correu i la contrasenya de github, cosa que actualitzara el repositori.
+i escriure el correu i la contrasenya de GitLab, cosa que actualitzara el repositori.
 
 Per incorporar els canvis que han fet altres al repositori online al teu repositori local, s'ha d'escriure
 ```
