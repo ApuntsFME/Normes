@@ -444,7 +444,7 @@ generación de gráficos. Aquí solo damos unas leves
 pinceladas de cómo usar este paquete, para hacer un grafo
 muy simple.
 
-![grafo](https://gitlab.com/ApuntsFME/Normas/blob/master/grafo.png)
+![grafo](grafo.png)
 
 Para hacer este grafo, usamos el entorno *tikzpicture*
 ```tex
